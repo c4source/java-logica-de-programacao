@@ -26,13 +26,6 @@
             System.out.printf("Digite o valor do incremento: ");
             int valorEncremento = input.nextInt();
 
-            if (primeiroValor > ultimoValor) {
-                System.out.println("Valor inválido");
-            }
-            else  if ( valorEncremento < 0) {
-                System.out.println("Encremento inválido");
-            }
-            else {
 
                 int contador = primeiroValor;
 
@@ -41,7 +34,7 @@
                     contador += valorEncremento;
                 }
 
-            }
+
             System.out.println("Acabou!");
 
 
