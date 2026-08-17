@@ -12,6 +12,7 @@ public class Ex032JogoDeComputador {
         [DESAFIO] Crie um jogo onde o computador vai sortear um número entre 1 e 5 o
         jogador vai tentar descobrir qual foi o valor sorteado.
          */
+
         Scanner input = new Scanner(System.in);
         Random gerador = new Random();
         int numAleatorio = gerador.nextInt(5) + 1;
