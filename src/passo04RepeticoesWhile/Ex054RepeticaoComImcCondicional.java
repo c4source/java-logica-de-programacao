@@ -2,12 +2,12 @@ package passo04RepeticoesWhile;
 
 import java.util.Scanner;
 
-public class Ex051RepeticaoComImcCondicional {
+public class Ex054RepeticaoComImcCondicional {
     public static void main(String[] args) {
 
 
         /*
-        exercicio 051
+        exercicio 054
         Desenvolva um aplicativo que leia o peso e a altura de 7 pessoas, mostrando
         no final:
 
