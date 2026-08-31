@@ -33,7 +33,7 @@ public class Ex058MediaComFlagAlunos {
 
         }
 
-        if (quantidadeAlunos > ) {
+        if (quantidadeAlunos > 0 ) {
             double mediaIdade = (double) somaDasIdades / quantidadeAlunos;
 
 
