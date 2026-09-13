@@ -2,7 +2,7 @@ package passo07repeticaoFor;
 
 import java.util.Scanner;
 
-public class Ex065TabuadaFor {
+public class Ex068TabuadaFor {
     public static void main(String[] args) {
 
         /*
